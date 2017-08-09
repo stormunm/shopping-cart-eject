@@ -1,3 +1,17 @@
+
+So I started with the redux/examples/shopping-cart.
+
+Then I ejected it...
+
+And got a version of server.js from another one of my repos
+thus enabling starting up the shopping-cart with an Express
+server instead of the webpack-dev-server...
+
+And it all worked...
+
+This will need some more tuning and experimentation but things are
+working which is very cool...
+
 # Redux Shopping Cart Example
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
